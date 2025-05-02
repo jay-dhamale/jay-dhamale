@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jay-dhamale)](https://git.io/streak-stats)
 <!--
 **jay-dhamale/jay-dhamale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
