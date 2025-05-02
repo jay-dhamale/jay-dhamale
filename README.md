@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jay-dhamale)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jay-dhamale)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-dhamale&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jay-dhamale/jay-dhamale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
