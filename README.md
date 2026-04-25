@@ -39,7 +39,8 @@
 [![](https://visitcount.itsvg.in/api?id=jay-dhamale&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jay-dhamale)
+<!-- ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jay-dhamale) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=jay-dhamale)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-dhamale&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
